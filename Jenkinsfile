@@ -6,6 +6,6 @@ node {
     }
 
     stage('Bundle') {
-        sh "aws s3 sync --acl public-read vendor s3://${env.S3_CDN_BUCKET}/vendor/"
+        sh "aws s3 sync --delete --acl public-read vendor s3://${env.S3_CDN_BUCKET}/vendor/"
     }
 }
