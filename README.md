@@ -38,8 +38,8 @@ it would be difficult to be certain they are no longer in use.
 
 Pull requests must meet some minimum requirements to be accepted:
 
-* Only include minified CSS and Javascript
-* Include source map files where they're available
+* Include minified CSS and Javascript
+* Include source map files and uncompressed CSS/Javascript where they're available
 * Keep pull requests small - don't stockpile libraries to add in bulk!
 
 ### Need help?
