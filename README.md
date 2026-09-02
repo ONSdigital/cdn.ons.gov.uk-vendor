@@ -14,6 +14,16 @@ link to the file using the following URL:
 https://cdn.ons.gov.uk/vendor/jquery/2.1.4/jquery.min.js
 ```
 
+## Deprecated versions
+
+These versions are still published, because we cannot be certain no service
+depends on them, but they should not be used for new integrations. Prefer the
+version listed under "Superseded by".
+
+| Library | Version | Superseded by | Notes                                        |
+| ------- | ------- | ------------- | -------------------------------------------- |
+| mathjax | 2.6.0   | 2.7.9         | 2.7.9 is the final release of the MathJax 2 line |
+
 ## Contributing
 
 See [CONTRIBUTING](CONTRIBUTING.md) for details.
