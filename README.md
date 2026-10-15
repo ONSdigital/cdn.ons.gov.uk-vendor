@@ -20,9 +20,10 @@ These versions are still published, because we cannot be certain no service
 depends on them, but they should not be used for new integrations. Prefer the
 version listed under "Superseded by".
 
-| Library | Version | Superseded by | Notes                                        |
-| ------- | ------- | ------------- | -------------------------------------------- |
-| mathjax | 2.6.0   | 2.7.9         | 2.7.9 is the final release of the MathJax 2 line |
+| Library | Version | Superseded by | Notes                                      |
+| ------- | ------- | ------------- | ------------------------------------------ |
+| mathjax | 2.6.0   | 4.1.3         | The MathJax 2 line is no longer maintained |
+| mathjax | 2.7.9   | 4.1.3         | The MathJax 2 line is no longer maintained |
 
 ## Contributing
 
